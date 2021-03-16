@@ -1,5 +1,5 @@
 # YouTube Video Downloader
-A YouTube Video Downloader using the python library pytube!
+A YouTube Video Downloader using the python library pytube and tkinter for the GUI!
 
 ## About
 You can download any video as an mp4 or mp3 in 1080p or 720p
