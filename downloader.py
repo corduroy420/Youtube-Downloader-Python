@@ -1,3 +1,7 @@
+# Enjoy this but if your going to skid leave some credit
+# Corduroy.wtf | corduroy#1001
+# :)
+
 import tkinter
 import os
 from tkinter import *
