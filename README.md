@@ -11,4 +11,6 @@ Images
 
 ![image](/img/main.png)
 
-![image](/img/about.png)
+![image](/img/menu.png)
+
+![image](/img/tips.png)
